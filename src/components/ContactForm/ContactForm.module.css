@@ -1,0 +1,29 @@
+.form {
+  padding: 20px;
+  border: 1px solid black;
+  width: 400px;
+  margin-bottom: 20px;
+}
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.title {
+  display: flex;
+  align-items: center;
+}
+.input {
+  padding: 8px;
+}
+.btn {
+  border: none;
+  padding: 10px 20px;
+  min-width: 100px;
+  display: flex;
+  color: bisque;
+  background-color: blue;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}

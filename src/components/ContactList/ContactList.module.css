@@ -1,0 +1,7 @@
+.contact {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+
+  list-style: none;
+}
